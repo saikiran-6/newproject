@@ -1,5 +1,7 @@
 yum install -y git
 
+
+
 first type 
 git init
 git add filename
