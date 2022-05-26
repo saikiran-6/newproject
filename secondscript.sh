@@ -1,5 +1,5 @@
 :!/bin/bash
-i=0
+i=$@
 while true
 do
 echo "happy man mr.$i ,,,,,"

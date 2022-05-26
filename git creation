@@ -1,0 +1,12 @@
+yum install -y git
+
+first type 
+git init
+git add filename
+git commit -m "My first commit"
+git remote add origin https://github.com/saikiran-6/jenkins.git
+git push -u origin master
+id vsaikiran.sai@gmail.com
+password jonnybhai1
+
+

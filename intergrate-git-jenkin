@@ -1,0 +1,11 @@
+#create a project
+new item
+free style project
+#give the git details
+github hookup trigger gitscm polling #select
+go to git hub 
+select the project
+settings 
+webhooks
+url # eg=6.4.3.2:8080/github-webhook/
+run the project
